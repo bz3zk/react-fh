@@ -3,4 +3,5 @@
 Archivos para el curso de React.
 
 **01-reforzamiento** - Reforzamiento de bases de Typescript/Javascript.
-**02-first-steps** - Primera aplicacion en React (simulacion de agregar o eliminar productos/articulos)
+
+**02-first-steps** - Primera aplicacion en React (simulacion de agregar o eliminar productos/articulos).
