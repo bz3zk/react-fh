@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+/src/helpers
+/coverage
+/src/__snapshots__
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
