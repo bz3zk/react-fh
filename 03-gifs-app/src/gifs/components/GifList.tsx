@@ -14,7 +14,7 @@ export const GifList: FC<Props> = ({ gifs }) => {
                     <h4>{gif.title}</h4>
                     <p>{gif.width}x{gif.height}</p>
                 </div>
-            ))};
+            ))}
         </div>
     );
 };
