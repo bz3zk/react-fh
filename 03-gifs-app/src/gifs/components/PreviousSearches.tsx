@@ -12,7 +12,7 @@ export const PreviousSearches: FC<Props> = ({ searches, onLabelClicked }) => {
             <ul className="previous-searches-list">
                 {
                     searches.map((term) => (
-                        <li key={term} onClick={() => onLabelClicked(term)}>{term}</li>
+                        <li key={term} onClick={() => onLabelClicked(term)} >{term}</li>
                     ))
                 }
             </ul>
